@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "python.pythonPath": "c:/a/envs/webapi/Scripts/python.exe",
+    "python.autoComplete.extraPaths": [
+        "c:/a/envs/webapi/Lib",
+        "c:/Program Files/Python34/Lib"
+    ]
+}
