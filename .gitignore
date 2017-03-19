@@ -1,3 +1,4 @@
 /*.log
 /src/*.log
 /.vscode/tags
+/src/__pycache__
